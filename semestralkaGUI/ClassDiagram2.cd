@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="loader">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAFAEABAACEAAAAQAAAAAiAAAAAAAAABAA=</HashCode>
+      <FileName>loader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sorter&lt;K, T, V&gt;">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAABAAAAAAAIAAYAAAAAAAAAAA=</HashCode>
+      <FileName>sorter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bisectionName">
+    <Position X="5.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAACAAgIAAAAAAAQAAABAQAgIAAAAAAAAAA=</HashCode>
+      <FileName>bisectionName.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uzemnaJednotka">
+    <Position X="7.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AYQAISAAAAQEIAAAAaAAEEBCoSABABAAABKAAAAAgAA=</HashCode>
+      <FileName>structures\uzemnaJednotka\uzemnaJednotka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

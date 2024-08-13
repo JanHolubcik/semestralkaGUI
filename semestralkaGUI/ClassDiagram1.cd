@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kUJVzdelavanieSum">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAEIQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>kUJVzdelavanieGroupSum.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cBelongsTo">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>cBelongsTo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="criterio&lt;T, O&gt;">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAABAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>criterio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="criterioName">
+    <Position X="17.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>criterioName.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="criterioUJ&lt;T&gt;">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>criterioUJ.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cType">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cType.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cUJVekovaSkupina">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAAAAAAAAABAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cUJVekovaSkupina.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cUJVekovaSkupinaRatio">
+    <Position X="19.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAIgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>cUJVekovaSkupinaRatio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cUJVekRatio">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAEAAgAAAIAAAAAIAAAAAAAQAA=</HashCode>
+      <FileName>cUJVekRatio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cUJVekGroupSum">
+    <Position X="10.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAgAAAKAAAACAAAAAAAAQAA=</HashCode>
+      <FileName>cUJVekSum.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cUJVzdelavanieGroupRatio">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAEAAIAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>cUJVzdelavanieGroupRatio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

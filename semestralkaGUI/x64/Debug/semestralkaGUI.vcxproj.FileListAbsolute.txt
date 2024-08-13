@@ -1,0 +1,4 @@
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\x64\Debug\semestralkaGUI.vcxproj.AssemblyReference.cache
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\x64\Debug\semestralkaGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\x64\Debug\semestralkaGUI.MyForm.resources
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\x64\Debug\semestralkaGUI.vcxproj.GenerateResource.cache

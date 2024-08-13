@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="compositeFilter&lt;T&gt;">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAgAAAgAAAACAAAAEAAAAAAAACAAAAAA=</HashCode>
+      <FileName>compositeFilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="filter&lt;K, T, V&gt;">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAABAAAAAAEAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>filter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="filterByInterval&lt;K, T, V&gt;">
+    <Position X="6.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAABAA=</HashCode>
+      <FileName>filterByInterval.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fUJByValue&lt;K, T, V&gt;">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>fUJByValue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="universalFilter&lt;T&gt;">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>universalFilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bisectionName">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAACAAgIAAAAAAAQAAABAQAgIAAAAAAAAAA=</HashCode>
+      <FileName>bisectionName.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

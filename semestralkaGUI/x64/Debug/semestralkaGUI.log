@@ -1,0 +1,134 @@
+﻿  MyForm.cpp
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\uzemnaJednotka\uzemnaJednotka.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\uzemnaJednotka\uzemnaJednotka.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\bisectionName.h(26,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\bisectionName.h(56,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\bisectionName.h(64,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(109,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(112,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(139,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(188,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(192,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(238,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(242,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(269,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(274,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\compositeFilter.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\compositeFilter.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\cUJVekSum.h(22,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\cUJVekSum.h(30,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\cUJVekRatio.h(23,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\cUJVekRatio.h(31,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\cUJVekRatio.h(38,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\cUJVekovaSkupinaRatio.h(17,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1209,24): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1213,23): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1225,23): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1230,21): warning C4566: character represented by universal-character-name '\u013E' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1248,24): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1252,23): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1264,23): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1269,21): warning C4566: character represented by universal-character-name '\u013E' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1298,24): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1302,23): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1314,23): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1319,21): warning C4566: character represented by universal-character-name '\u013E' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1347,24): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1351,23): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1365,23): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1370,21): warning C4566: character represented by universal-character-name '\u013E' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1389,24): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1393,23): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1406,23): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1411,21): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1431,24): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1435,23): warning C4566: character represented by universal-character-name '\u0165' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1447,23): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1452,21): warning C4566: character represented by universal-character-name '\u013E' cannot be represented in the current code page (1252)
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(940,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(945,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1595,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1601,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1607,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1677,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1701,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1707,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1713,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1783,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1806,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1812,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1818,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(1888,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2000,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2006,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2009,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2094,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2100,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2106,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2176,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2281,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2287,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2290,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2490,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2496,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2502,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2573,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(56,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(55): message : while compiling class template member function 'void sorter<int,uzemnaJednotka,double>::quickDesc(size_t,size_t,structures::UnsortedSequenceTable<int,uzemnaJednotka *> &,criterioUJ<double> *)'
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(19): message : see reference to function template instantiation 'void sorter<int,uzemnaJednotka,double>::quickDesc(size_t,size_t,structures::UnsortedSequenceTable<int,uzemnaJednotka *> &,criterioUJ<double> *)' being compiled
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(2026): message : see reference to class template instantiation 'sorter<int,uzemnaJednotka,double>' being compiled
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(57,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(58,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(27,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(26): message : while compiling class template member function 'void sorter<int,uzemnaJednotka,double>::quickAsc(size_t,size_t,structures::UnsortedSequenceTable<int,uzemnaJednotka *> &,criterioUJ<double> *)'
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(16): message : see reference to function template instantiation 'void sorter<int,uzemnaJednotka,double>::quickAsc(size_t,size_t,structures::UnsortedSequenceTable<int,uzemnaJednotka *> &,criterioUJ<double> *)' being compiled
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(28,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\sorter.h(29,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(82): message : while compiling class template member function 'void structures::SortedSequenceTable<std::wstring,uzemnaJednotka *>::insert(const K &,const T &)'
+          with
+          [
+              K=std::wstring,
+              T=uzemnaJednotka *
+          ]
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\loader.h(84): message : see reference to function template instantiation 'void structures::SortedSequenceTable<std::wstring,uzemnaJednotka *>::insert(const K &,const T &)' being compiled
+          with
+          [
+              K=std::wstring,
+              T=uzemnaJednotka *
+          ]
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\uzemnaJednotka\uzemnaJednotka.h(73): message : see reference to class template instantiation 'structures::SortedSequenceTable<std::wstring,uzemnaJednotka *>' being compiled
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(98,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(96): message : while compiling class template member function 'structures::TableItem<K,T> *structures::SortedSequenceTable<K,T>::findTableItem(const K &)'
+          with
+          [
+              K=std::wstring,
+              T=uzemnaJednotka *
+          ]
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\list\array_list.h(213,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\list\array_list.h(204): message : while compiling class template member function 'void structures::ArrayList<int>::insert(const T &,int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\MyForm.h(158): message : see reference to class template instantiation 'structures::ArrayList<int>' being compiled
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(105,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(104): message : while compiling class template member function 'int structures::SortedSequenceTable<std::wstring,uzemnaJednotka *>::indexOfKey(K,int,int,bool &)'
+          with
+          [
+              K=std::wstring
+          ]
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(84): message : see reference to function template instantiation 'int structures::SortedSequenceTable<std::wstring,uzemnaJednotka *>::indexOfKey(K,int,int,bool &)' being compiled
+          with
+          [
+              K=std::wstring
+          ]
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\table\sorted_sequence_table.h(56): message : while compiling class template member function 'structures::SortedSequenceTable<std::wstring,uzemnaJednotka *>::SortedSequenceTable(void)'
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\uzemnaJednotka\uzemnaJednotka.h(73): message : see reference to function template instantiation 'structures::SortedSequenceTable<std::wstring,uzemnaJednotka *>::SortedSequenceTable(void)' being compiled
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\array\array.h(113): warning C4715: 'structures::Array<int>::assign': not all control paths return a value
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\array\array.h(113): warning C4715: 'structures::Array<universalFilter<uzemnaJednotka *> *>::assign': not all control paths return a value
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\array\array.h(113): warning C4715: 'structures::Array<structures::TableItem<std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t> >,uzemnaJednotka *> *>::assign': not all control paths return a value
+C:\Users\jan.holubcik\source\repos\semestralkaGUI\semestralkaGUI\structures\array\array.h(113): warning C4715: 'structures::Array<structures::TableItem<int,uzemnaJednotka *> *>::assign': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  semestralkaGUI.vcxproj -> C:\Users\jan.holubcik\source\repos\semestralkaGUI\x64\Debug\semestralkaGUI.exe

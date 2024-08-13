@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\filters">
+      <UniqueIdentifier>{2da0d7f4-e12d-447e-a3ad-bc677a66717b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\criterios">
+      <UniqueIdentifier>{ed7bcc76-c751-4977-864b-eb2a67b1ca65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\structures">
+      <UniqueIdentifier>{d94b8878-bf36-40aa-84de-af86df311b4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\sorting">
+      <UniqueIdentifier>{00e2bf22-a960-4538-8666-ea40feeffb96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\bisection">
+      <UniqueIdentifier>{c2b9047f-e66c-424e-be9c-85901124ab51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\utils.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\structure.cpp">
+      <Filter>Header Files\structures</Filter>
+    </ClCompile>
+    <ClCompile Include="structures\vector\vector.cpp">
+      <Filter>Header Files\structures</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\heap_monitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\uzemnaJednotka\uzemnaJednotka.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sequence_table.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\sorted_sequence_table.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\structure_iterator.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\table\table.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\types.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\array\array.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\array_list.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\data_item.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\list\list.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="structures\vector\vector.h">
+      <Filter>Header Files\structures</Filter>
+    </ClInclude>
+    <ClInclude Include="sorter.h">
+      <Filter>Header Files\sorting</Filter>
+    </ClInclude>
+    <ClInclude Include="bisectionName.h">
+      <Filter>Header Files\bisection</Filter>
+    </ClInclude>
+    <ClInclude Include="fUJByValue.h">
+      <Filter>Header Files\filters</Filter>
+    </ClInclude>
+    <ClInclude Include="compositeFilter.h">
+      <Filter>Header Files\filters</Filter>
+    </ClInclude>
+    <ClInclude Include="filter.h">
+      <Filter>Header Files\filters</Filter>
+    </ClInclude>
+    <ClInclude Include="filterByInterval.h">
+      <Filter>Header Files\filters</Filter>
+    </ClInclude>
+    <ClInclude Include="universalFilter.h">
+      <Filter>Header Files\filters</Filter>
+    </ClInclude>
+    <ClInclude Include="kUJVzdelavanieGroupSum.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="cBelongsTo.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="criterio.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="criterioName.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="cType.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="cUJVekRatio.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="cUJVekSum.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="cUJVzdelavanieGroupRatio.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="criterioUJ.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="cUJVekovaSkupina.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+    <ClInclude Include="cUJVekovaSkupinaRatio.h">
+      <Filter>Header Files\criterios</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
